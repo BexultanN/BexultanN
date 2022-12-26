@@ -4,7 +4,7 @@
 <!-- ===========================================       Header       ========================================================= -->
 
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />, I'm Bexultan Nurakyn <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="35" height="35" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" height="35" /></h1>
-<h3 align="center">Hey it's me Sultan Suleimenov<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="35" height="35" />. I have a keen interest in Android, Kotlin and Mobile Development and have a huge fascination with the inner workings of technology.</h3>
+<h3 align="center">Hey it's me Bexultan Nurakyn<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="35" height="35" />. I have a keen interest in Android, Kotlin and Mobile Development and have a huge fascination with the inner workings of technology.</h3>
 
 <!-- ===========================================       About me       ========================================================= -->
 
